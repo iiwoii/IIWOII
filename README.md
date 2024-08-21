@@ -1,5 +1,6 @@
 ## 
-Hi there 👋 My name is Katarina Prozorova, I am a founder of IIWOII project. Nice to meet you. https://www.linkedin.com/in/katarina-prozorova-md-mba-13204691/
+Hi there 👋 My name is Katarina Prozorova, I am a founder of IIWOII project. Nice to meet you  https://www.linkedin.com/in/katarina-prozorova-md-mba-13204691/
+
 Happy to share here some thoughts and ideas in code
 
 <!--
