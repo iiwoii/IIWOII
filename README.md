@@ -1,6 +1,6 @@
 ## 
 Hi there 👋 My name is Katarina Prozorova, I am a founder of IIWOII project. Nice to meet you. Let`s contact on https://www.linkedin.com/in/katarina-prozorova-md-mba-13204691/
-Happy to share some thoughts and ideas in code with you. 
+Happy to share some thoughts and ideas in code. 
 
 <!--
 **iiwoii/IIWOII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
