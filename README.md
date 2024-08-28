@@ -1,5 +1,6 @@
 ## 
-Hi there 👋 My name is Katarina Prozorova, I am a founder of IIWOII project![image](https://github.com/user-attachments/assets/0c0ec698-9a4b-4afe-9c42-4f9be6ef282d)
+Hi there 👋 My name is Katarina Prozorova, I am a founder of IIWOII project![image](https://github.com/user-attachments/assets/83fb4bdf-04eb-48a0-80cb-90a2e06b4958)
+
 
 
 
