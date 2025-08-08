@@ -7,6 +7,7 @@ I am a founder of IIWOII project![image](https://github.com/user-attachments/ass
 
 
 Nice to meet you  https://www.linkedin.com/in/katarina-prozorova-md-mba-13204691/
+
 https://x.com/ikatarinai
 
 Some ideas in code here
