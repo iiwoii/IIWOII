@@ -10,7 +10,7 @@ Nice to meet you  https://www.linkedin.com/in/katarina-prozorova-md-mba-13204691
 
 https://x.com/ikatarinai
 
-Some code in ideas there:https://a.co/d/06B7JISq
+Some code in ideas there: https://a.co/d/06B7JISq
 
 Some ideas in code here
 
